@@ -23,3 +23,7 @@ The architecture implements a strict zero-trust security model across multiple A
    ```bash
    git clone [https://github.com/YOUR-USERNAME/charlotte-ha-web-arch.git](https://github.com/YOUR-USERNAME/charlotte-ha-web-arch.git)
    cd charlotte-ha-web-arch
+terraform init
+terraform validate
+terraform plan
+terraform apply --auto-approve
