@@ -1,6 +1,6 @@
  # High-Availability, Multi-Tier Automated Web Architecture
 
-![Project Architecture](charlotte-ha-web-arch-diagram.png)
+![Project Architecture](charlotte-ha-web-arch-diagram)
 
 A production-grade, self-healing AWS infrastructure deployment engineered entirely as code (IaC) using Terraform. This project demonstrates network isolation, secure traffic routing, and automated scaling principles used in enterprise cloud environments.
 
