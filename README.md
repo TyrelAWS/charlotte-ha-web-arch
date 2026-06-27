@@ -26,6 +26,9 @@ The architecture implements a strict zero-trust security model across multiple A
    git clone [https://github.com/tyrelaws/charlotte-ha-web-arch.git](https://github.com/tyrelaws/charlotte-ha-web-arch.git)
    cd charlotte-ha-web-arch
 terraform init
+
 terraform validate
+
 terraform plan
+
 terraform apply --auto-approve
